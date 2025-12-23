@@ -1,0 +1,11 @@
+* {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1, h2, h3 {
+    color: chocolate;
+}
+p, ul {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+}
